@@ -1,0 +1,14 @@
+# Maven generated files
+target/
+
+# Java compiled files
+*.class
+
+# IDE settings
+.idea/
+.vscode/
+nbproject/private/
+
+# Operating system files
+.DS_Store
+Thumbs.db
